@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "fafdb230b8bf0850",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cd08fb1a0f4eef7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffa9c740641d081b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тестовая заметка.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "899f340a6d4ffb86",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcafbbf361f9d92a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98686fdaac56fc33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ab0c0b65f17ae4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf86e3df141bdaba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc262e72409fc933",
+    "type": "split",
+    "children": [
+      {
+        "id": "6329462ba4ce3fa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3f5fd29a937a267",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Тестовая заметка.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c034e1fb454a5342",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Тестовая заметка.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "034a93aaea634b98",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "391452748899b8eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Тестовая заметка.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "98686fdaac56fc33",
+  "lastOpenFiles": [
+    "Без названия 1.md",
+    "Тестовая заметка.md"
+  ]
+}
